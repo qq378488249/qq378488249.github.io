@@ -17,3 +17,5 @@ hcl-5
 
 staging5
 
+hcl6
+
